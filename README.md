@@ -1,0 +1,1 @@
+# egz_if_rozsz
